@@ -1,5 +1,9 @@
 Programming for the Web with JavaScript (SD4x) | Penn Engineering Online Learning.
 
+I started this course with a very basic idea about computing and failed miserably. 
+Now after 6 months of studies I came back to refactor the code I wrote and complete the course. 
+In this course I will be using JS, basic HTML and CSS, jQuery, Node.js and React.
+
 Course Outline
 ● Week 1 - Web Programming Basics: how web browsers and servers
 ● communicate using HTTP; creating static web content with HTML and CSS
