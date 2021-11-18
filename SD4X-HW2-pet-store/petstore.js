@@ -28,7 +28,7 @@ function mostPopularDays(week) {
     if (day.traffic > maxTraffic) maxTraffic = day.traffic;
   }
 
-  let maxDayArray = week.filter((day) => day.traffic > maxTraffic);
+  let maxDayArray = week.filter((day) => day.traffic == maxTraffic);
 
   if (maxDayArray.length == 1) return maxDayArray[0].name;
   return maxDayArray.map(({ name }) => name);
